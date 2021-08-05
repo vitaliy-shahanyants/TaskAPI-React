@@ -1,3 +1,9 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: #12243C !important;
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +41,32 @@
   to {
     transform: rotate(360deg);
   }
+}
+.App-Container{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.App-Nav-Text{
+  font-weight: bold;
+  font-size: 25px;
+  color: white !important;
+}
+.App-Nav-Item{
+
+}
+.App-Nav-List{
+
+}
+.App-NavBar{
+  background-color: #242D3F !important;
+  box-shadow: 0 10px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%) !important;
+}
+.App-Nav-Div-Right{
+  width: 100%;
+  text-align: right;
+}
+
+
+.text-left{
+  text-align: left;
 }

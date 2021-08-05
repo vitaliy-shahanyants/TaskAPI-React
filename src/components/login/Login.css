@@ -1,0 +1,23 @@
+.Login-Form{
+    width: 40% !important;
+    text-align: center;
+    margin: 0 auto;
+    background-color: white;
+    padding:40px;
+    border-radius: 20px;
+}
+.Login-Button{
+    background-color:#3F6AA3;
+    width: 100%;
+}
+.Login-Form-Group{
+    text-align: left;
+    margin-bottom: 10px;
+}
+.Login-Form-Group label{
+    margin-bottom: 10px;
+}
+.Login-SignUp-Link a{
+    color: #3F6AA3 !important;
+    text-decoration: none;
+}
